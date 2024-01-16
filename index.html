@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/css/main.css" />
+    <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/all.min.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/css/normalization.css" />
+    <title>Assassin's Creed Project</title>
+  </head>
+
+  <body class="position-relative">
+    <button class="sound-btn btn position-fixed text-light">Sound Off</button>
+    <div class="container position-relative text-light pt-5 pb-5">
+      <ul
+        class="tabs row list-unstyled d-flex justify-content-center align-items-center gap-2 m-auto"
+      ></ul>
+
+      <ul
+        class="options row list-unstyled justify-content-center align-items-center gap-2 mt-3"
+      >
+        <li class="imgs col-xm-4 col-lg-1">
+          <button class="btn" type="button">Images</button>
+        </li>
+        <li class="vids col-xm-4 col-lg-1">
+          <button class="btn" type="button">Videos</button>
+        </li>
+      </ul>
+
+      <div class="img-container"></div>
+
+      <div class="vid-container"></div>
+    </div>
+
+    <audio
+      class="bg-audio"
+      src="/Music/1-03 Ezio's Family.mp3"
+      type="audio/mpeg"
+    ></audio>
+    <script src="/javaScript/main.js" type="module"></script>
+    <script src="/javaScript/bootstrap.bundle.min.js"></script>
+    <script src="/javaScript/all.min.js"></script>
+    <script src="/javaScript/json/main.json"></script>
+  </body>
+</html>

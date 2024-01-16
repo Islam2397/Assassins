@@ -1,0 +1,56 @@
+{
+  "altair": {
+    "name": "Altair",
+    "charImgs": [
+      "/imgs/altair-1.jpg",
+      "/imgs/altair-2.jpg",
+      "/imgs/altair-3.jpg"
+    ],
+    "vid": [
+      "https://www.youtube.com/embed/RjQ6ZtyXoA0?si=UYh-Thd7ESMrqd9o",
+      "https://www.youtube.com/embed/4pdGOaYDLRY?si=8zYshjBLbNglVy_Y"
+    ]
+  },
+  "ezio": {
+    "name": "Ezio",
+    "charImgs": ["/imgs/ezio-1.jpg", "/imgs/ezio-3.jpg", "/imgs/ezio-4.jpg"],
+    "vid": [
+      "https://www.youtube.com/embed/RVNfLKS_iiw?si=ciKWHKRbHA8FG8BW",
+      "https://www.youtube.com/embed/753327AMNIM?si=N2k2Vu3CUwdW2LGN"
+    ]
+  },
+  "haytham": {
+    "name": "Haytham Kenway",
+    "charImgs": ["/imgs/haytham-1.png"],
+    "vid": ["https://www.youtube.com/embed/5n86DHZVEVs?si=1mh0xes_nvvrcMD4"]
+  },
+  "connor": {
+    "name": "Connor Kenway",
+    "charImgs": [
+      "/imgs/connor-1.jpg",
+      "/imgs/connor-2.jpg",
+      "/imgs/connor-3.jpg"
+    ],
+    "vid": ["https://www.youtube.com/embed/-pUhraVG7Ow?si=WVLYXOlOW4hMXLl5"]
+  },
+  "edward": {
+    "name": "Edward Kenway",
+    "charImgs": [
+      "/imgs/edward-1.jpg",
+      "/imgs/edward-2.jpg",
+      "/imgs/edward-3.jpg"
+    ],
+    "vid": [
+      "https://www.youtube.com/embed/WdKIQSwkYHI?si=B8hcEe9vVFbcwELB",
+      "https://www.youtube.com/embed/OwVe4ZNeQZk?si=HvyXrmQUga8POlhl"
+    ]
+  },
+  "rogue": {
+    "name": "Rogue",
+    "charImgs": ["/imgs/rogue-1.jpg", "/imgs/rogue-2.jpg", "/imgs/rogue-3.jpg"],
+    "vid": [
+      "https://www.youtube.com/embed/eSjCeWcCtjY?si=OqOI464uTxTNu3kJ",
+      "https://www.youtube.com/embed/RDeyI31pG8A?si=kf2F4blAeGIOUtp3"
+    ]
+  }
+}
